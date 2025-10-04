@@ -1,4 +1,4 @@
-# Awesome Open Source Projects
+# :sparkles: Awesome Open Source Projects
 
 ## Angular 
 
@@ -8,7 +8,13 @@
 - PeerTube [github.com/Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
 - Oppia [github.com/oppia/oppia](https://github.com/oppia/oppia)
 - Wafrn – The social media that respects you [codeberg.org/wafrn/wafrn](https://codeberg.org/wafrn/wafrn)
+- :mortar_board: Youtube microfrontend using Angular, Module Federation. Turborepo edition [github.com/vugar005/youtube-webapp-turborepo](https://github.com/vugar005/youtube-webapp-turborepo)
 
 ## React (NextJS)
 
 - Twenty (Open-Source CRM) [github.com/twentyhq/twenty](https://github.com/twentyhq/twenty)
+- :mortar_board: Youtube clone [github.com/vugar005/youtube-webapp-next](https://github.com/vugar005/youtube-webapp-next)
+
+
+## :construction: NOTE
+- :mortar_board: - обучающий контент
