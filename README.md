@@ -15,6 +15,7 @@
 - **Twenty** (Open-Source CRM) [github.com/twentyhq/twenty](https://github.com/twentyhq/twenty)
 - :mortar_board: Youtube clone [github.com/vugar005/youtube-webapp-next](https://github.com/vugar005/youtube-webapp-next)
 - **Unkey** - Open Source API authentication and authorization [github.com/unkeyed/](https://github.com/unkeyed/unkey)
+- **Papermark** - The open-source DocSend alternative. [github.com/mfts/papermark](https://github.com/mfts/papermark)
 
 ## :construction: NOTE
 - :mortar_board: - обучающий контент
