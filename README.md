@@ -17,6 +17,7 @@
 - **Unkey** - Open Source API authentication and authorization [github.com/unkeyed/](https://github.com/unkeyed/unkey)
 - **Papermark** - The open-source DocSend alternative [github.com/mfts/papermark](https://github.com/mfts/papermark)
 - **Inbox Zero** - your 24/7 AI email assistant [github.com/elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+- **Bytebot** - Open-Source AI Desktop Agent [github.com/bytebot-ai](https://github.com/bytebot-ai/bytebot/tree/main/packages/bytebot-ui)
 
 ## :construction: NOTE
 - :mortar_board: - обучающий контент
