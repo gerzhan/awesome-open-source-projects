@@ -19,5 +19,9 @@
 - **Inbox Zero** - your 24/7 AI email assistant [github.com/elie222/inbox-zero](https://github.com/elie222/inbox-zero)
 - **Bytebot** - Open-Source AI Desktop Agent [github.com/bytebot-ai](https://github.com/bytebot-ai/bytebot/tree/main/packages/bytebot-ui)
 
+## Preact
+
+- **bewCloud** -  A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. [github.com/bewcloud/bewcloud/](https://github.com/bewcloud/bewcloud)
+
 ## :construction: NOTE
 - :mortar_board: - обучающий контент
